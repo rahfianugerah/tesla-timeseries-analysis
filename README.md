@@ -1,4 +1,4 @@
-# Time Series Forecasting: TSLA Stock Prices
+# Time Series Analysis: TSLA Stock Prices
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)<br>
 ![Maintenance]( https://img.shields.io/badge/Maintenance-Yes-green)
 ![TensorFlow]( https://img.shields.io/badge/TensorFlow-v2.15.0-ff8500)
