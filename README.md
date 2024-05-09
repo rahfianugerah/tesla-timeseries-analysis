@@ -1,8 +1,16 @@
 # Time Series Analysis: Tesla Stock Prices
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)<br>
 ![Maintenance]( https://img.shields.io/badge/Maintenance-Yes-green)
 ![TensorFlow]( https://img.shields.io/badge/TensorFlow-v2.15.0-ff8500)
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/rahfianugerah/tesla-timeseries-analysis/blob/main/LICENSE)
+
+## Project Overview
+<p align="justify">
+  This project delves into the historical behavior of Tesla's stock prices utilizing time series analysis. 
+  By analyzing historical data (open, high, low, close, volume), the project aims to identify trends, seasonality, and potential drivers influencing price movements. 
+  Informative visualizations will be created to effectively communicate the findings. This project seeks to contribute valuable insights for investors and financial analysts regarding 
+  Tesla's stock performance, promoting a deeper understanding of its historical and potential future behavior.
+</p>
+
 ![image](https://github.com/rxzv/rpsic/assets/156213717/694cbca1-60dd-47ff-9a87-74efcc559bbb)
 
 ## About TensorFlow
@@ -15,15 +23,27 @@ It provides a flexible platform for building and deploying powerful machine lear
 - High-Level APIs: Keras, a high-level API built on top of TensorFlow, simplifies model building with a user-friendly interface.
 - Production Deployment: TensorFlow offers tools and libraries for deploying trained models in various environments, from servers and mobile devices to web browsers and edge devices.
 
-## Benefits of Using TensorFlow
-- Fast Prototyping: Keras and other high-level APIs enable rapid experimentation and model development.
-- Scalability: TensorFlow can handle large datasets and complex models, making it suitable for real-world machine learning applications.
-- Community and Resources: TensorFlow has a vast and active community of developers, researchers, and enthusiasts, providing extensive documentation, tutorials, and support.
+## Special Thanks to <a href="https://www.dicoding.com/">Dicoding</a>
+<img src="https://help.dicoding.com/wp-content/uploads/2021/01/dicoding-edit.jpg"/>
 
-## Who Uses TensorFlow?
-TensorFlow is used by a wide range of organizations and individuals for various applications, including:
+<p align="justify">
+  Dicoding is a one-stop shop for Indonesian developers looking to level up their skills. 
+  It offers a comprehensive developer journey, encompassing learning, building, validation, and even job opportunities.
+  The core of Dicoding is its Academy, which provides a variety of courses on programming languages, frameworks, and other developer tools. 
+  Whether you're a beginner or a seasoned developer, Dicoding has something for you, with both free and paid subscription options.<br>
+</p>
 
-- Image Recognition: Classifying objects, faces, or scenes in images.
-- Natural Language Processing: Analyzing text data for sentiment analysis, machine translation, or chatbots.
-- Recommender Systems: Personalizing recommendations for products, movies, or music based on user preferences.
-- Scientific Computing: Solving complex scientific problems with numerical computations.
+<p align="justify">
+  Beyond just learning, Dicoding provides opportunities to put your skills to the test with coding challenges. 
+  These challenges allow you to practice your newfound knowledge and compete with other developers to further hone your abilities.
+  Dicoding doesn't stop at education; it also helps with career development. The platform features a job board where developers can search for positions that match their skills and experience. 
+  Additionally, Dicoding hosts events and workshops that connect developers with industry professionals, fostering valuable networking opportunities.
+</p>
+
+## Dataset Reference
+
+<p align="justify">
+  Several publicly available datasets were utilized for this project. 
+  Descriptions and access information for each dataset can be found in the references section
+  (<a href="https://www.kaggle.com/datasets/abdallahwagih/emotion-dataset">Kaggle</a>). These datasets provided the foundation for my exploration of this project.
+</p>
