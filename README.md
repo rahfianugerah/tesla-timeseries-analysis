@@ -11,17 +11,24 @@
   Tesla's stock performance, promoting a deeper understanding of its historical and potential future behavior.
 </p>
 
-![image](https://github.com/rxzv/rpsic/assets/156213717/694cbca1-60dd-47ff-9a87-74efcc559bbb)
+![Image](https://github.com/rxzv/rpsic/assets/156213717/694cbca1-60dd-47ff-9a87-74efcc559bbb)
 
 ## About TensorFlow
-TensorFlow is an open-source software library developed by Google for numerical computation, large-scale machine learning, and deep learning. 
-It provides a flexible platform for building and deploying powerful machine learning models. [Click here!](https://github.com/tensorflow/tensorflow)
+<p align="justify">
+  TensorFlow, an open-source library by Google, empowers users with a comprehensive platform for numerical computation, machine learning, and particularly deep learning. 
+  It offers a robust set of tools for complex mathematical operations and facilitates building intricate deep learning models inspired by the human brain. 
+  Notably, TensorFlow embraces flexibility by supporting various programming languages and extends its reach beyond model creation 
+  by providing deployment tools for real-world applications on servers, mobile devices, and even web browsers. <a href="https://github.com/tensorflow/tensorflow">Click here!</a>
+</p>
 
 ## TensorFlow Key Features
 - Machine Learning Focused: TensorFlow offers a wide range of tools and APIs specifically designed for machine learning tasks, including data preparation, model building, training, and deployment.
 - Flexible Architecture: The library supports various programming languages like Python, C++, and Java, allowing developers to choose the language that best suits their needs.
 - High-Level APIs: Keras, a high-level API built on top of TensorFlow, simplifies model building with a user-friendly interface.
 - Production Deployment: TensorFlow offers tools and libraries for deploying trained models in various environments, from servers and mobile devices to web browsers and edge devices.
+
+## Project Author
+- GitHub: [@rahfianugerah](https://www.github.com/rahfianugerah)
 
 ## Special Thanks to <a href="https://www.dicoding.com/">Dicoding</a>
 <img src="https://help.dicoding.com/wp-content/uploads/2021/01/dicoding-edit.jpg"/>
