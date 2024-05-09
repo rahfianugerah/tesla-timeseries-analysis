@@ -52,5 +52,5 @@
 <p align="justify">
   Several publicly available datasets were utilized for this project. 
   Descriptions and access information for each dataset can be found in the references section
-  (<a href="https://www.kaggle.com/datasets/abdallahwagih/emotion-dataset">Kaggle</a>). These datasets provided the foundation for my exploration of this project.
+  (<a href="https://www.kaggle.com/datasets/varpit94/tesla-stock-data-updated-till-28jun2021">Kaggle</a>). These datasets provided the foundation for my exploration of this project.
 </p>
